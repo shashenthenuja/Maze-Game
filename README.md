@@ -1,9 +1,9 @@
 # Maze Game In C
 This project is a 2D console maze game written in C programming language. The user can type the command to move the player ( W, A, S, D ). The players goal is to reach the  `x` to win the game.
 
-W - UP
-A - LEFT
-S - DOWN
+W - UP<br>
+A - LEFT<br>
+S - DOWN<br>
 D - RIGHT
 
 ## Visibility Mode
